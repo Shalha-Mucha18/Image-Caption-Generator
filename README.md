@@ -17,7 +17,7 @@ The Flickr8k dataset is used for training and evaluation. This dataset contains 
 - **Model Architecture:** DenseNet for feature extraction, GRUs for caption generation
 - **Training Technique:** Transfer learning
 - **Dataset:** Flickr8k
-##Conclusion
+## Conclusion
 By combining computer vision and natural language processing techniques, this project provides a robust solution for generating descriptive captions for images. The utilization of deep learning models and transfer learning enhances the efficiency and accuracy of the image captioning process, showcasing the potential of AI-powered systems in understanding and describing visual content.  
   
 
