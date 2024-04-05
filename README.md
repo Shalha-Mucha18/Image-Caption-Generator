@@ -1,4 +1,6 @@
 # Image-Caption-Generator
-This is my project which belongs to the course ETE 300. I have completed the report for this project which is included in the repository.
-Implemented a multimodal approach for generating accurate textual descriptions or captions for given images. Developed a system that produces captions closely aligned with the actual context of the images, showcasing proficiency in image understanding and natural language processing.
+This project implements an image caption generator using deep neural network models. Image captioning is a crucial task in computer vision, where the goal is to generate a textual description that accurately represents the content of an image. This task involves recognizing significant objects, their features, and the relationships between them within the image, ultimately generating semantically and syntactically correct phrases. The primary objectives include:
+  - 1. Object Recognition: Recognizing various objects present in an image.
+  - 2. Relationship Analysis: Analyzing the relationships between objects within the image.
+   - 3. Caption Generation: Generating descriptive captions accurately representing the image's content.
 
